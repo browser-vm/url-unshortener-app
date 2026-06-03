@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* We define the Comic Sans fallback directly in App.jsx, 
+   but you can put global CSS here if you ever need it! */
